@@ -37,8 +37,8 @@ Ensure you have the following installed:
     cd College-Website-Project
    ```
 
-3. **Open the main HTML file:**:
-   Open college_website.html in your preferred web browser to view the website.
+3. **Open the main HTML file**:
+   - Open college_website.html in your preferred web browser to view the website.
 
 ## Usage
 
