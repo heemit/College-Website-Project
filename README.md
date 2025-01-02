@@ -38,7 +38,7 @@ Ensure you have the following installed:
    ```
 
 3. **Open the main HTML file:**:
-   - Open college_website.html in your preferred web browser to view the website.
+   Open college_website.html in your preferred web browser to view the website.
 
 ## Usage
 
